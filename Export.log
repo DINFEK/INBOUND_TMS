@@ -1,0 +1,734 @@
+﻿-------------------------------------
+Beginning Export of Source Files
+INBOUND TMS.accdb
+VCS Version 4.0.34
+Full Path: C:\Users\Adewale\Desktop\INBOUND TMS\CEMENT_PRODUCTION PARK\INBOUND TMS.accdb
+Export Folder: C:\Users\Adewale\Desktop\INBOUND TMS\CEMENT_PRODUCTION PARK\INBOUND TMS.accdb.src\
+Performing Full Export
+5/14/2024 12:59:40 PM
+-------------------------------------
+Scanning source files...
+No db connections found in this database.
+No vbe forms found in this database.
+No proj properties found in this database.
+No imex specs found in this database.
+No reports found in this database.
+No table data macros found in this database.
+No hidden attributes found in this database.
+-------------------------------------
+Exporting project...          
+  INBOUND TMS.accdb
+[1]
+-------------------------------------
+Exporting vb project...       
+  Database2
+[1]
+-------------------------------------
+Exporting vbe references...   
+  stdole
+[4]
+-------------------------------------
+Exporting saved specs...      
+  DATA TRANSPORT
+[1]
+-------------------------------------
+Exporting shared images...    
+  imageDANGOTE
+  dangotenew
+[2]
+-------------------------------------
+Exporting themes...           
+  Office Theme
+[1]
+-------------------------------------
+Exporting db properties...    
+  Database Properties (DAO)
+[45]
+-------------------------------------
+Exporting tables...           
+  ADMIN_PROFILE
+    Sanitized in 0.006 seconds.
+  ADMIN_PROFILE (SQL)
+  admin_switchbox
+    Sanitized in 0.002 seconds.
+  admin_switchbox (SQL)
+  ASSET
+    Sanitized in 0.009 seconds.
+  ASSET (SQL)
+  AssetSwitch_History
+    Sanitized in 0.004 seconds.
+  AssetSwitch_History (SQL)
+  DATA
+    Sanitized in 0.007 seconds.
+  DATA (SQL)
+  FuelMaster
+    Sanitized in 0.003 seconds.
+  FuelMaster (SQL)
+  HR_Info
+    Sanitized in 0.004 seconds.
+  HR_Info (SQL)
+  Login Information
+    Sanitized in 0.001 seconds.
+  Login Information (SQL)
+  Paste Errors
+    Sanitized in 0.001 seconds.
+  Paste Errors (SQL)
+  PlannerCalibration
+    Sanitized in 0.003 seconds.
+  PlannerCalibration (SQL)
+  REPORTS
+    Sanitized in 0.004 seconds.
+  REPORTS (SQL)
+  RouteUpdate
+    Sanitized in 0.007 seconds.
+  RouteUpdate (SQL)
+  SPECIAL OPS
+    Sanitized in 0.004 seconds.
+  SPECIAL OPS (SQL)
+  Staff_Data
+    Sanitized in 0.013 seconds.
+  Staff_Data (SQL)
+  STATUS_Inbound
+    Sanitized in 0.002 seconds.
+  STATUS_Inbound (SQL)
+  STATUS_REQUEST
+    Sanitized in 0.002 seconds.
+  STATUS_REQUEST (SQL)
+  STAUSVBA
+    Sanitized in 0.002 seconds.
+  STAUSVBA (SQL)
+  Switchboard Items
+    Sanitized in 0.002 seconds.
+  Switchboard Items (SQL)
+  tbl_FLEET
+    Sanitized in 0.003 seconds.
+  tbl_FLEET (SQL)
+  tempVar
+    Sanitized in 0.009 seconds.
+  tempVar (SQL)
+  TrackUsers
+    Sanitized in 0.002 seconds.
+  TrackUsers (SQL)
+  TripCreationINBOUND
+    Sanitized in 0.009 seconds.
+  TripCreationINBOUND (SQL)
+  Truck_Re_allocationCancellation
+    Sanitized in 0.012 seconds.
+  Truck_Re_allocationCancellation (SQL)
+  txt_FLEET_TABLE
+    Sanitized in 0.002 seconds.
+  txt_FLEET_TABLE (SQL)
+  UpdateStatusDriver
+    Sanitized in 0.003 seconds.
+  UpdateStatusDriver (SQL)
+  Upload_Rec
+  Upload_Rec (SQL)
+  User_Type ID
+    Sanitized in 0.002 seconds.
+  User_Type ID (SQL)
+  USERS_IDS INFORMATION
+    Sanitized in 0.003 seconds.
+  USERS_IDS INFORMATION (SQL)
+  USysRibbons
+    Sanitized in 0.002 seconds.
+  USysRibbons (SQL)
+  wabill_no_Ibs
+    Sanitized in 0.002 seconds.
+  wabill_no_Ibs (SQL)
+  WORKSHOP
+    Sanitized in 0.007 seconds.
+  WORKSHOP (SQL)
+  WrVerSTATUS
+    Sanitized in 0.002 seconds.
+  WrVerSTATUS (SQL)
+[32]
+-------------------------------------
+Exporting queries...          
+  Admin_FQ
+    Sanitized in 0.006 seconds.
+  Admin_FQ (SQL)
+  APP_Q
+    Sanitized in 0.003 seconds.
+  APP_Q (SQL)
+  Asset_FileRecords
+    Sanitized in 0.004 seconds.
+  Asset_FileRecords (SQL)
+  AssetRecN
+    Sanitized in 0.009 seconds.
+  AssetRecN (SQL)
+  AssetTransferHistory
+    Sanitized in 0.002 seconds.
+  AssetTransferHistory (SQL)
+  BER_REQUEST FORM
+    Sanitized in 0.002 seconds.
+  BER_REQUEST FORM (SQL)
+  CreationINBOUND
+    Sanitized in 0.003 seconds.
+  CreationINBOUND (SQL)
+  Ctr_CementData
+    Sanitized in 0.004 seconds.
+  Ctr_CementData (SQL)
+  Ctrl_InboundData
+    Sanitized in 0.002 seconds.
+  Ctrl_InboundData (SQL)
+  d_Allocationqry
+    Sanitized in 0.004 seconds.
+  d_Allocationqry (SQL)
+  d_dataF
+    Sanitized in 0.003 seconds.
+  d_dataF (SQL)
+  d_Leaveqry
+    Sanitized in 0.005 seconds.
+  d_Leaveqry (SQL)
+  D_RCD
+    Sanitized in 0.001 seconds.
+  D_RCD (SQL)
+  d_search
+    Sanitized in 0.005 seconds.
+  d_search (SQL)
+  driverLicenseREC
+    Sanitized in 0.002 seconds.
+  driverLicenseREC (SQL)
+  ds_ApprovalFeedBack
+    Sanitized in 0.001 seconds.
+  ds_ApprovalFeedBack (SQL)
+  EquipmentExpiryqry
+    Sanitized in 0.005 seconds.
+  EquipmentExpiryqry (SQL)
+  FLT_1_IMPRECO
+    Sanitized in 0.003 seconds.
+  FLT_1_IMPRECO (SQL)
+  FrAll_Asset
+    Sanitized in 0.001 seconds.
+  FrAll_Asset (SQL)
+  FrAll_StaffData
+    Sanitized in 0.001 seconds.
+  FrAll_StaffData (SQL)
+  graphCreation
+    Sanitized in 0.001 seconds.
+  graphCreation (SQL)
+  INB_tripClosure
+    Sanitized in 0.005 seconds.
+  INB_tripClosure (SQL)
+  INB_tripClosureREF
+    Sanitized in 0.003 seconds.
+  INB_tripClosureREF (SQL)
+  Leave_Calculator
+    Sanitized in 0.003 seconds.
+  Leave_Calculator (SQL)
+  NEW_EXP_1_2
+    Sanitized in 0.004 seconds.
+  NEW_EXP_1_2 (SQL)
+  NEW_FLT_1
+    Sanitized in 0.003 seconds.
+  NEW_FLT_1 (SQL)
+  NEW_FLT_16
+    Sanitized in 0.002 seconds.
+  NEW_FLT_16 (SQL)
+  NEW_FLT_17
+    Sanitized in 0.002 seconds.
+  NEW_FLT_17 (SQL)
+  NEW_FLT_18
+    Sanitized in 0.002 seconds.
+  NEW_FLT_18 (SQL)
+  NEW_FLT_2
+    Sanitized in 0.002 seconds.
+  NEW_FLT_2 (SQL)
+  NEW_FLT_3
+    Sanitized in 0.002 seconds.
+  NEW_FLT_3 (SQL)
+  NEW_FLT_4
+    Sanitized in 0.003 seconds.
+  NEW_FLT_4 (SQL)
+  NEW_FLT_5
+    Sanitized in 0.003 seconds.
+  NEW_FLT_5 (SQL)
+  NEW_FLT_6
+    Sanitized in 0.003 seconds.
+  NEW_FLT_6 (SQL)
+  NEW_FLT_7
+    Sanitized in 0.005 seconds.
+  NEW_FLT_7 (SQL)
+  NEW_FLT_8
+    Sanitized in 0.003 seconds.
+  NEW_FLT_8 (SQL)
+  NEW_GBK_1
+    Sanitized in 0.004 seconds.
+  NEW_GBK_1 (SQL)
+  NEW_GBK_2
+    Sanitized in 0.005 seconds.
+  NEW_GBK_2 (SQL)
+  NEW_INBOUND_FLT_1
+    Sanitized in 0.005 seconds.
+  NEW_INBOUND_FLT_1 (SQL)
+  NEW_INBOUND_FLT_2
+    Sanitized in 0.005 seconds.
+  NEW_INBOUND_FLT_2 (SQL)
+  NEW_INBOUND_FLT_3
+    Sanitized in 0.004 seconds.
+  NEW_INBOUND_FLT_3 (SQL)
+  NEW_NN_OPERATIONAL_1
+    Sanitized in 0.003 seconds.
+  NEW_NN_OPERATIONAL_1 (SQL)
+  NEW_NN_OPERATIONAL_3
+    Sanitized in 0.003 seconds.
+  NEW_NN_OPERATIONAL_3 (SQL)
+  NEW_NN_OPERATIONAL_4
+    Sanitized in 0.003 seconds.
+  NEW_NN_OPERATIONAL_4 (SQL)
+  NEW_PACKED
+    Sanitized in 0.002 seconds.
+  NEW_PACKED (SQL)
+  NEW_RESERVED
+    Sanitized in 0.002 seconds.
+  NEW_RESERVED (SQL)
+  NEWGHN
+    Sanitized in 0.004 seconds.
+  NEWGHN (SQL)
+  PayrollReport
+    Sanitized in 0.003 seconds.
+  PayrollReport (SQL)
+  Pro_allocation
+    Sanitized in 0.002 seconds.
+  Pro_allocation (SQL)
+  Q_APPEND
+    Sanitized in 0.003 seconds.
+  Q_APPEND (SQL)
+  Q_NONPS
+    Sanitized in 0.003 seconds.
+  Q_NONPS (SQL)
+  Qry_CalibrationASSETUpdates
+    Sanitized in 0.002 seconds.
+  Qry_CalibrationASSETUpdates (SQL)
+  qry_DriversRecord&Status
+    Sanitized in 0.002 seconds.
+  qry_DriversRecord&Status (SQL)
+  qry_execplanner
+    Sanitized in 0.002 seconds.
+  qry_execplanner (SQL)
+  qry_HistoryReAllocation
+    Sanitized in 0.006 seconds.
+  qry_HistoryReAllocation (SQL)
+  qry_HistoryReAllocationDEL
+    Sanitized in 0.004 seconds.
+  qry_HistoryReAllocationDEL (SQL)
+  Qry_LogIn
+    Sanitized in 0.001 seconds.
+  Qry_LogIn (SQL)
+  Qry_LogOut
+    Sanitized in 0.001 seconds.
+  Qry_LogOut (SQL)
+  qry_NewApp
+    Sanitized in 0.004 seconds.
+  qry_NewApp (SQL)
+  qry_UpdateDriverStatus
+    Sanitized in 0.001 seconds.
+  qry_UpdateDriverStatus (SQL)
+  QRYAllocate
+    Sanitized in 0.002 seconds.
+  QRYAllocate (SQL)
+  QRYAllocateDEL_Exit
+    Sanitized in 0.001 seconds.
+  QRYAllocateDEL_Exit (SQL)
+  qryAppNewAllocation
+    Sanitized in 0.004 seconds.
+  qryAppNewAllocation (SQL)
+  qryAppNewDEL
+    Sanitized in 0.004 seconds.
+  qryAppNewDEL (SQL)
+  qryCalibration
+    Sanitized in 0.002 seconds.
+  qryCalibration (SQL)
+  qryCancelReal
+    Sanitized in 0.002 seconds.
+  qryCancelReal (SQL)
+  qryCancelRealAPP
+    Sanitized in 0.003 seconds.
+  qryCancelRealAPP (SQL)
+  qryDDTpending
+    Sanitized in 0.002 seconds.
+  qryDDTpending (SQL)
+  qryFreshAllocationCAB
+    Sanitized in 0.001 seconds.
+  qryFreshAllocationCAB (SQL)
+  qrygraphStatus
+    Sanitized in 0.001 seconds.
+  qrygraphStatus (SQL)
+  qryHR_LeaveIncidence
+    Sanitized in 0.005 seconds.
+  qryHR_LeaveIncidence (SQL)
+  qryHR_LeaveIncidenceCLEAR
+    Sanitized in 0.004 seconds.
+  qryHR_LeaveIncidenceCLEAR (SQL)
+  qRYInboundCreation
+    Sanitized in 0.003 seconds.
+  qRYInboundCreation (SQL)
+  qryNonOpsReport
+    Sanitized in 0.001 seconds.
+  qryNonOpsReport (SQL)
+  qryPlanner
+    Sanitized in 0.002 seconds.
+  qryPlanner (SQL)
+  qryReallocation
+    Sanitized in 0.002 seconds.
+  qryReallocation (SQL)
+  qryRepDriver
+    Sanitized in 0.001 seconds.
+  qryRepDriver (SQL)
+  qryRepDriverDEL
+    Sanitized in 0.001 seconds.
+  qryRepDriverDEL (SQL)
+  qryRepDriverDEL_fresh
+    Sanitized in 0.001 seconds.
+  qryRepDriverDEL_fresh (SQL)
+  qryReportGraph
+    Sanitized in 0.002 seconds.
+  qryReportGraph (SQL)
+  qryReportStatus
+    Sanitized in 0.001 seconds.
+  qryReportStatus (SQL)
+  qryStaffID
+    Sanitized in 0.003 seconds.
+  qryStaffID (SQL)
+  qryStatus2
+    Sanitized in 0.002 seconds.
+  qryStatus2 (SQL)
+  records
+    Sanitized in 0.003 seconds.
+  records (SQL)
+  Reserved_FLT
+    Sanitized in 0.005 seconds.
+  Reserved_FLT (SQL)
+  RuntimeField
+    Sanitized in 0.005 seconds.
+  RuntimeField (SQL)
+  SubQuery
+    Sanitized in 0.003 seconds.
+  SubQuery (SQL)
+  UpdateDriverNAMESAPPHONE
+    Sanitized in 0.003 seconds.
+  UpdateDriverNAMESAPPHONE (SQL)
+[88]
+-------------------------------------
+Exporting forms...            
+  NEW_FLT_14
+    Sanitized in 0.023 seconds.
+  searchrecords
+    Sanitized in 0.023 seconds.
+  NEW_FLT_3
+    Sanitized in 0.023 seconds.
+  USERS_IDS INFORMATION
+    Sanitized in 0.012 seconds.
+  Re_allocation
+    Sanitized in 0.050 seconds.
+  Cancel_Reallocation
+    Sanitized in 0.006 seconds.
+  Login Information
+    Sanitized in 0.009 seconds.
+  d_CONTROL
+    Sanitized in 0.017 seconds.
+  NAVIGATIONS_Control
+    Sanitized in 0.012 seconds.
+  Find_LeaveHQR
+    Sanitized in 0.010 seconds.
+  Asset_Control
+    Sanitized in 0.027 seconds.
+  NEW_FLT_17
+    Sanitized in 0.060 seconds.
+  STATUS REPORT
+    Sanitized in 0.136 seconds.
+  NEW_FLT_13
+    Sanitized in 0.032 seconds.
+  ASSET
+    Sanitized in 0.034 seconds.
+  NAVIGATIONS_Asset
+    Sanitized in 0.017 seconds.
+  N_OPERATIONAL
+    Sanitized in 0.105 seconds.
+  LogIn
+    Sanitized in 0.008 seconds.
+  d_FLT
+    Sanitized in 0.046 seconds.
+  GYPSUM_FLT_2
+    Sanitized in 0.043 seconds.
+  NEW_GHN_FLT
+    Sanitized in 0.026 seconds.
+  NAVIGATION_PAGE
+    Sanitized in 0.013 seconds.
+  GYPSUM_FLEETS
+    Sanitized in 0.011 seconds.
+  NEW_FLT_2
+    Sanitized in 0.031 seconds.
+  Idletimmer
+    Sanitized in 0.004 seconds.
+  QD_SPOOLING
+    Sanitized in 0.013 seconds.
+  NAVIGATIONS_User
+    Sanitized in 0.010 seconds.
+  TrackUsers
+    Sanitized in 0.010 seconds.
+  NAVIGATIONS_STMs
+    Sanitized in 0.012 seconds.
+  Admin
+    Sanitized in 0.039 seconds.
+  Reserved_FLT
+    Sanitized in 0.026 seconds.
+  NAVIGATIONS
+    Sanitized in 0.016 seconds.
+  Planner_Calibration
+    Sanitized in 0.011 seconds.
+  Approval_Verification
+    Sanitized in 0.090 seconds.
+  WrVerification
+    Sanitized in 0.033 seconds.
+  NAVIGATION_PAGEtest
+    Sanitized in 0.025 seconds.
+  NEW_FLT_1
+    Sanitized in 0.037 seconds.
+  Wabill_Plant 3000
+    Sanitized in 0.011 seconds.
+  WORKSHOP
+    Sanitized in 0.032 seconds.
+  EXP_1 & 2
+    Sanitized in 0.032 seconds.
+  execute
+    Sanitized in 0.004 seconds.
+  STATUS REPORT_Inbound
+    Sanitized in 0.038 seconds.
+  BREAKDOWN OF NON OPERATIONAL_Inbound
+    Sanitized in 0.033 seconds.
+  Switchboard
+    Sanitized in 0.017 seconds.
+  Control_Inbound
+    Sanitized in 0.026 seconds.
+  NAVIGATIONS_Documentation
+    Sanitized in 0.012 seconds.
+  EXP_IMP
+    Sanitized in 0.036 seconds.
+  Non_Functioning Fleet
+    Sanitized in 0.025 seconds.
+  NEW_FLT_4
+    Sanitized in 0.033 seconds.
+  NEW_FLT_5
+    Sanitized in 0.029 seconds.
+  NEW_FLT_6
+    Sanitized in 0.028 seconds.
+  GYPSUM_FLT_1
+    Sanitized in 0.027 seconds.
+  GYPSUM_FLT_3
+    Sanitized in 0.029 seconds.
+  Filters
+    Sanitized in 0.011 seconds.
+  AssetMovement_Register
+    Sanitized in 0.026 seconds.
+  NEW_FLT_16
+    Sanitized in 0.026 seconds.
+  Asset&Records
+    Sanitized in 0.069 seconds.
+  NAVIGATIONS_Gypsum
+    Sanitized in 0.008 seconds.
+  NEW_FLT_10
+    Sanitized in 0.028 seconds.
+  NEW_FLT_15
+    Sanitized in 0.027 seconds.
+  fromFiledisplay
+    Sanitized in 0.007 seconds.
+  NEW_FLT_18
+    Sanitized in 0.056 seconds.
+  PayRoll_DataINFO
+    Sanitized in 0.087 seconds.
+  BioData
+    Sanitized in 0.034 seconds.
+  Leave_Recordsfrm
+    Sanitized in 0.045 seconds.
+  NAVIGATE
+    Sanitized in 0.017 seconds.
+  Enroll_NewDriver
+    Sanitized in 0.063 seconds.
+  Driver_Payroll
+    Sanitized in 0.032 seconds.
+  Print_Allocation
+    Sanitized in 0.037 seconds.
+  Find_Allocation
+    Sanitized in 0.009 seconds.
+  PayRoll
+    Sanitized in 0.006 seconds.
+  Asset_Registery
+    Sanitized in 0.034 seconds.
+  ADDT_Office
+    Sanitized in 0.018 seconds.
+  admin_switchbox
+    Sanitized in 0.006 seconds.
+  EquipmentExpiryqry
+    Sanitized in 0.028 seconds.
+  Guarantor'sForm
+    Sanitized in 0.032 seconds.
+  ReportStatusGraph
+    Sanitized in 0.004 seconds.
+  FileRecords
+    Sanitized in 0.008 seconds.
+  Asset_Registery_Edit
+    Sanitized in 0.038 seconds.
+  Leave_Records
+    Sanitized in 0.038 seconds.
+  Pay_RollREC
+    Sanitized in 0.020 seconds.
+  OtherDisc
+    Sanitized in 0.011 seconds.
+  NAVIGATE_HR_3Doc
+    Sanitized in 0.010 seconds.
+  LeaveApproval_Check
+    Sanitized in 0.035 seconds.
+  NAVIGATE_HR_Sec
+    Sanitized in 0.016 seconds.
+  Enroll_NewDriver_Documentation
+    Sanitized in 0.103 seconds.
+  NAVIGATIONS_HR_Sec
+    Sanitized in 0.022 seconds.
+  NAVIGATIONS_Dir
+    Sanitized in 0.029 seconds.
+  driver_Status
+    Sanitized in 0.023 seconds.
+  d_FLT_STMs
+    Sanitized in 0.045 seconds.
+  UsersPERMMISSION
+    Sanitized in 0.011 seconds.
+  Psw_Reset
+    Sanitized in 0.011 seconds.
+  pswR
+    Sanitized in 0.004 seconds.
+  graphCreation
+    Sanitized in 0.005 seconds.
+  Freshallocation
+    Sanitized in 0.045 seconds.
+  ReallocationPends
+    Sanitized in 0.041 seconds.
+  CreationTRIP
+    Sanitized in 0.040 seconds.
+  ActiveTrip
+    Sanitized in 0.040 seconds.
+  TripClosureMDL
+    Sanitized in 0.033 seconds.
+  PlannerCalibration_BOARD
+    Sanitized in 0.016 seconds.
+  LoadingChart
+    Sanitized in 0.006 seconds.
+  Q_REQUEST
+    Sanitized in 0.012 seconds.
+  NAVIGATE_INBOUNDCTR
+    Sanitized in 0.019 seconds.
+  NAVIGATIONS_ctrlUser
+    Sanitized in 0.014 seconds.
+  qryReportGraph subform
+    Sanitized in 0.005 seconds.
+  Data_MM2
+    Sanitized in 0.020 seconds.
+  NAVIGATIONS_CoalYard
+    Sanitized in 0.011 seconds.
+  FLT_REPORT
+    Sanitized in 0.003 seconds.
+[108]
+-------------------------------------
+Exporting macros...           
+  AutoExec
+    Sanitized in 0.001 seconds.
+[1]
+-------------------------------------
+Exporting table data...       
+  USysRibbons
+[1]
+-------------------------------------
+Exporting modules...          
+  Module1
+  Module2
+  Module3
+[3]
+-------------------------------------
+Exporting relations...        
+  {60CA9419-8B60-4E5C-8665-CBDCF616A85B}
+  {B07A29E9-DF89-468F-9087-43757299957C}
+[2]
+-------------------------------------
+Exporting doc properties...   
+  Database Documents
+[4]
+-------------------------------------
+Exporting nav pane groups...  
+  Groups
+[1]
+-------------------------------------
+Done. (26.84 seconds)
+
+--------------------------------------------------
+                PERFORMANCE REPORTS
+--------------------------------------------------
+Category                      Count     Seconds
+--------------------------------------------------
+Forms                         108       13.53
+Queries                       88        7.33
+Tables                        32        4.34
+Doc Properties                4         0.27
+Modules                       3         0.16
+DB Properties                 45        0.15
+Macros                        1         0.15
+Shared Images                 2         0.10
+DB Connections                0         0.10
+Nav Pane Groups               1         0.08
+Themes                        1         0.07
+Relations                     2         0.06
+VBE References                4         0.05
+Project                       1         0.05
+Saved Specs                   1         0.04
+VB Project                    1         0.04
+Table Data                    1         0.03
+Table Data Macros             0         0.03
+Hidden Attributes             0         0.02
+Proj Properties               0         0.01
+IMEX Specs                    0         0.00
+VBE Forms                     0         0.00
+Reports                       0         0.00
+--------------------------------------------------
+TOTALS:                       295       26.61
+--------------------------------------------------
+
+--------------------------------------------------
+Operations                    Count     Seconds
+--------------------------------------------------
+Read File Bytes               232       6.33
+App.SaveAsText()              197       5.05
+Sanitize File                 197       3.28
+Clear Files by Ext            98        2.05
+Format SQL                    88        1.96
+Increment Progress            491       0.89
+Convert to JSON               2444      0.86
+App.ExportXML()               31        0.74
+Write File                    468       0.49
+Scan DB Objects               1         0.38
+Save Query SQL                88        0.33
+Save Table SQL                32        0.29
+Get File Property Hash        244       0.29
+Read File DevMode             108       0.20
+Read File                     231       0.19
+Compute SHA256                711       0.19
+Delete File                   232       0.14
+Console Updates               6         0.12
+Verify Path                   699       0.11
+Get Modified Date             487       0.09
+Sanitize XML                  31        0.07
+Get VBA Hash                  111       0.06
+Format XML                    25        0.04
+Check for linked table        32        0.03
+Format XML (alt)              6         0.03
+Export VBE Module             3         0.02
+Sanitize VBA Code             99        0.01
+Quick Count Files             1         0.01
+Write Binary File             2         0.01
+Quick Count Objects           1         0.01
+Export Table Data as TDF      1         0.01
+Create Folder                 11        0.01
+Export Theme                  1         0.00
+--------------------------------------------------
+Other Operations                        2.56
+--------------------------------------------------
+
+
